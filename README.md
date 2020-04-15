@@ -1,5 +1,5 @@
-# MIT-E-Vent-Asia
-Based on the MIT Emergency Ventilator project adapted to production and parts readily available in Asia.
+# MIT-E-Vent-PandaLabs
+Based on the MIT Emergency Ventilator project adapted to production and parts that are readily available.
 
 The original ventilator design toolbox can be found at the following link:
 https://e-vent.mit.edu
