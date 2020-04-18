@@ -12,7 +12,8 @@ An Excel version of the BOM exported from OPENBOM has been uploaded, as well.
 We have also input the BOM data into Octopart, which is available at the following link:
 https://octopart.com/bom-tool/aIbQNM7g
 
-We made several slight changes to the original design. A complete change log will be posted and kept updated with all future changes.
+We made several slight changes to the original design. A complete change log will be posted and kept updated with all future changes. Current change log is available in the repository as well as at the following link:
+https://docs.google.com/spreadsheets/d/1Baj8XVonhlT_5w5bjHxczbCBx6u7KSAWauW3EVe9WIk/edit?usp=sharing
 
 We used the 3D files from the original design and converted them for use with Autodesk Fusion 360. We will post our 3D files in .stp and native .f3z formats. 
 
